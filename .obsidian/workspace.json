@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI-Models/AI模型列表.md",
+                "file": "欢迎.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AI模型列表"
+              "title": "欢迎"
             }
           }
         ]
@@ -27,7 +27,7 @@
       {
         "id": "aaee0b4d5b51e678",
         "type": "tabs",
-        "dimension": 62.116991643454035,
+        "dimension": 62.11699164345404,
         "children": [
           {
             "id": "ba246a391363c906",
@@ -203,13 +203,27 @@
   },
   "active": "71155d17d5519974",
   "lastOpenFiles": [
+    "test/未命名.md",
+    "未命名",
+    "prompts/claude-win/history.jsonl",
+    "prompts/claude-win",
+    "prompts/新建文件夹",
+    "prompts",
+    "新建文件夹",
+    "test/附件/Pasted image 20260422123713.png",
+    "test/附件",
+    "未命名.md",
+    "欢迎.md",
+    "test",
+    "AI-Models/AI模型列表.md",
+    "附件/Pasted image 20260422123539.png",
+    "附件",
     "需求/006_AIRUN新增A2A Agent.md",
     "需求/005_优化appmkt的部署配置.md",
     "需求/004_MCPMKT新增PPTMCP.md",
     "需求/003_FC新增github打通功能.md",
     "需求/002_优化部署配置.md",
     "需求/001_部署配置.md",
-    "AI-Models/AI模型列表.md",
     "需求",
     "AI-Models/Grok 3.md",
     "AI-Models/Claude 4 (Extended).md",
@@ -225,12 +239,6 @@
     "AI-Models/Cohere Rerank 3.md",
     "AI-Models/Cohere Embed v3.md",
     "AI-Models/Gemini Embedding.md",
-    "AI-Models/text-embedding-3-small.md",
-    "AI-Models/text-embedding-3-large.md",
-    "AI-Models/Bark.md",
-    "AI-Models/Gemini 2.0 Audio.md",
-    "AI-Models/ElevenLabs Core.md",
-    "AI-Models/generate_models.py",
-    "AI-Models"
+    "AI-Models/text-embedding-3-small.md"
   ]
 }
